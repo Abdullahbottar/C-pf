@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	cout << "Enter motor-cycle:" << endl;
-	cout << "Enter motor-cycle:" << endl;
+	cout << "pick cotton" << endl;
 	string v;
 	cout << "Enter 1 motor-cycle:" << endl;
 	cout << "Enter 2 car:" << endl;
